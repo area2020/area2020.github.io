@@ -1,0 +1,209 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+.fs {
+    color: #CFB53B;
+}
+
+.rain {
+    color: #0000a0;
+}
+
+.orca {
+    color: #8B008B;
+}
+
+.s4 {
+    color: #FF9400;
+}
+
+.va {
+    color: #006400;
+}
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+  ul, ol {
+      margin-left: 0;
+  }
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: $uol-blue;
+}
+
+
+
+/**
+ * Links
+ */
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:visited {
+        color: $link-visited-color;
+    }
+
+    &:hover {
+        color: link-hover-color;
+        text-decoration: underline;
+    }
+}
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: darken($body-bg, 25%);
+    border-left: 4px solid lighten($complimentary-color, 35%);
+    padding-left: $spacing-unit / 2;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid darken($complimentary-color, 15%);
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+/* Map */
+
+.map {
+    height: 300px;
+}
+
+
+
+/*disable custom maps scrolling behaviour*/
+.scrolloff {
+    pointer-events: none;
+}
+
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $complimentary-color;
+        }
+    }
+}
+
+/* Title */
+
+.uolLogo {width: 7em; }
+.title {font-size: 1em;}
+
+@media screen and (min-width:500px)  {
+  .uolLogo {width: 15em; }
+  .title{font-size: 3em;}
+}

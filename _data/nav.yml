@@ -1,0 +1,20 @@
+- title: "Home"
+  href: "/"
+
+- title: "Members"
+  href: "/members"
+  
+- title: "Activities"
+  subcategories:
+  - subtitle: "Events"
+    subhref: "/events"
+  - subtitle: "Projects"
+    subhref: "/projects"
+  - subtitle: "Home Robot Lab"
+    subhref: "/hrl"
+
+- title: "Publications"
+  href: "/publications"
+
+- title: "Contact"
+  href: "/contact"
