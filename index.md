@@ -148,5 +148,9 @@ Submission link: TBD
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
 </ul>
 
+## Contact Information
+
+For more information contact us at area2020.workshop@gmail.com
+
 </div>
 </div>
