@@ -128,10 +128,24 @@ Submission link: TBD
   <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
 </ul>
 
-## Program Committee
+## Program Committee (under construction)
 
 <ul>
-<li>under construction</li>
+<li>Rafael H. Bordini, PUCRS (Brazil)</li>
+<li>Viviana Mascardi, Genoa University (Italy)</li>
+<li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
+<li>Bruno Lacerda, University of Oxford (UK)</li>
+<li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
+<li>Lavindra da Silva, University of Cambridge (UK)</li>
+<li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
+<li>Leonardo Mariani, University of Milano Bicocca (Italy)</li>
+<li>Ilaria Matteucci, Istituto di Informatica e Telematica, CNR (Italy)</li>
+<li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
+<li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
+<li>Patrizio Pelliccione, Associate Professor, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
+<li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
+<li>Pedro Ribeiro, University of York (UK)</li>
+<li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
 </ul>
 
 </div>
