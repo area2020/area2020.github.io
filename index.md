@@ -147,6 +147,7 @@ Submission link: TBD
 <li>Patrizio Pelliccione, Associate Professor, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
 <li>Lavindra da Silva, University of Cambridge (UK)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
+<li>Alessandro Ricci, University of Bologna (Italy)</li>
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
 </ul>
 
