@@ -137,7 +137,7 @@ Submission link: TBD
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
 <li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
-<li>Jomi F. Hübner, UFSC (Brazil)<\li>
+<li>Jomi F. Hübner, UFSC (Brazil)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
 <li>Leonardo Mariani, University of Milano Bicocca (Italy)</li>
 <li>Viviana Mascardi, Genoa University (Italy)</li>
