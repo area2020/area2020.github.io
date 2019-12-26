@@ -133,6 +133,7 @@ Submission link: TBD
 ## Program Committee (under construction)
 
 <ul>
+<li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
 <li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
