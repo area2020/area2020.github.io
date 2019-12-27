@@ -143,14 +143,17 @@ Submission link: TBD
 <li>Leonardo Mariani, University of Milano Bicocca (Italy)</li>
 <li>Viviana Mascardi, Genoa University (Italy)</li>
 <li>Ilaria Matteucci, Istituto di Informatica e Telematica, CNR (Italy)</li>
+<li>Ettore Merlo, Ecole Polytechnique of Montreal (Canada)</li>
 <li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
 <li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
 <li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
 <li>Patrizio Pelliccione, Associate Professor, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
-<li>Lavindra da Silva, University of Cambridge (UK)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
 <li>Alessandro Ricci, University of Bologna (Italy)</li>
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
+<li>Lavindra da Silva, University of Cambridge (UK)</li>
+<li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
+
 </ul>
 
 ## Contact Information
