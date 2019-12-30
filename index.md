@@ -147,7 +147,7 @@ Submission link: TBD
 <li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
 <li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
 <li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
-<li>Patrizio Pelliccione, Associate Professor, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
+<li>Patrizio Pelliccione, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
 <li>Alessandro Ricci, University of Bologna (Italy)</li>
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
