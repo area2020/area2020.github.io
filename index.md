@@ -137,6 +137,7 @@ Submission link: TBD
 <li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
+<li>Michael Fisher, University of Liverpool (UK)</li>
 <li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
