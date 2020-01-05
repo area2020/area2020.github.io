@@ -114,8 +114,8 @@ Submission link: TBD
 ## Important Dates
 
 <ul>
-<li>Submission Deadline: 28th February 2020</li>
-<li>Paper Notification: 31st March 2020</li>
+<li>Submission Deadline: 1st March 2020</li>
+<li>Paper Notification: 8th April 2020</li>
 <li>Camera Ready: 1st May 2020</li>
 <li>Workshop: 8th or 9th June 2020</li>
 </ul>
@@ -141,6 +141,7 @@ Submission link: TBD
 <li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
+<li>Brian Logan, University of Nottingham (UK)</li>
 <li>Leonardo Mariani, University of Milano Bicocca (Italy)</li>
 <li>Viviana Mascardi, Genoa University (Italy)</li>
 <li>Ilaria Matteucci, Istituto di Informatica e Telematica, CNR (Italy)</li>
