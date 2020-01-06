@@ -101,6 +101,8 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
+Formatting guidelines should follow LNCS: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines</a>
+<br>
 Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
 </p>
 
