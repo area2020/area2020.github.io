@@ -101,7 +101,7 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
-Submission link: https://easychair.org/my/conference?conf=area2020#
+Submission link: [https://easychair.org/my/conference?conf=area2020#]
 </p>
 
 </div>
