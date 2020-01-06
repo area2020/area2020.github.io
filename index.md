@@ -137,6 +137,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <ul>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
 <li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
+<li>Olivier Boissier, Mines Saint-Étienne (France)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
 <li>Michael Fisher, University of Liverpool (UK)</li>
