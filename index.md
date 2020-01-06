@@ -132,7 +132,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
   <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
 </ul>
 
-## Program Committee (under construction)
+## Program Committee
 
 <ul>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
