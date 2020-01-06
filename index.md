@@ -97,7 +97,7 @@ Partecipants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
-Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. We are negotiating with a publisher for publishing the proceedings of the workshop. We are aso in the process of applying for a special issue for the post-proceedings where revised selected papers will be published. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
+Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. We are negotiating with a publisher for publishing the proceedings of the workshop. We are also in the process of applying for a special issue for the post-proceedings where revised selected papers will be published. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
