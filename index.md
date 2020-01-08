@@ -81,12 +81,12 @@ This event is planned as a one-day workshop. Our aim is to have three reviews pe
 ## Submission Instructions
 
 <p align="justify">
-Partecipants are invited to submit either:
+Participants are invited to submit either:
 <ul>
-  <li><b>a full length regular paper</b>
+  <li><b>a full length research paper</b>
     &mdash;
     a technical paper for describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots;
-    an application paper, with emphasis on robotic applications where agents techniques have been applied;
+    an application/case study paper, with emphasis on robotic applications where agents techniques have been applied;
     a survey paper on one of the topics of interest.</li>
   <li><b>a short paper</b>
     &mdash;
@@ -118,7 +118,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <ul>
 <li>Submission Deadline: 1st March 2020</li>
 <li>Paper Notification: 8th April 2020</li>
-<li>Camera Ready: 1st May 2020</li>
+<li>Camera Ready: 8th May 2020</li>
 <li>Workshop: 8th or 9th June 2020</li>
 </ul>
 
