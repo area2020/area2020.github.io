@@ -151,6 +151,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <li>Ettore Merlo, Ecole Polytechnique of Montreal (Canada)</li>
 <li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
 <li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
+<li>Liliana Pasquale, University College Dublin and  Lero - the Irish Software Research Centre (Ireland)</li>
 <li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
 <li>Patrizio Pelliccione, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
