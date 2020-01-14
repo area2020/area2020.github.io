@@ -57,12 +57,12 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 #### SEO Stuff
 
 # Twitter Cards
-twitter_user: LivUni_AVLab
+twitter_user: AREA2020
 twitter_card: true
-twitter_image: https://autonomy-and-verification-uol.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: https://area2020.github.io/images/logos/area_logo_1.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
-researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
+researchgate_username: AREA2020
 
 # URLS
 UoL_URL: https://www.liverpool.ac.uk/computer-science/
