@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
-image: ../../images/logos/area_logo_1.png
+image: https://area2020.github.io/images/logos/area_logo_1.png
 ---
 
 <div class="columns large-7" >
