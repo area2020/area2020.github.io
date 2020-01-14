@@ -119,7 +119,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <li>Submission Deadline: 1st March 2020</li>
 <li>Paper Notification: 8th April 2020</li>
 <li>Camera Ready: 8th May 2020</li>
-<li>Workshop: 8th or 9th June 2020</li>
+<li>Workshop: 8th June 2020</li>
 </ul>
 
 ## Organisers
@@ -137,10 +137,12 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <ul>
 <li>Gleifer Vaz Alves, Federal University of Technology – Paraná (Brazil)</li>
 <li>Mehrnoosh Askarpour, Politecnico di Milano (Italy)</li>
+<li>Amel Bennaceur, The Open University (UK)</li>
 <li>Olivier Boissier, Mines Saint-Étienne (France)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
 <li>Michael Fisher, University of Liverpool (UK)</li>
+<li>Meng Guo, Bosch Center for Artificial Intelligence (Germany)</li>
 <li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
 <li>Bruno Lacerda, University of Oxford (UK)</li>
