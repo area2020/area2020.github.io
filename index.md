@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
-image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.png
+image: ../../images/logos/area_logo_1.png
 ---
 
 <div class="columns large-7" >
 <div markdown="1">
-  
+
 <!--<div style="float:left; clear:right; width:50%">
 <img src="../../images/logos/area_logo_1.png" style="width:250px"/>
 </div>-->
@@ -19,7 +19,7 @@ image: https://autonomy-and-verification-uol.github.io/images/logos/FMAS-Logo.pn
 
 <div class="columns large-5" >
 <div markdown="1">
-  
+
 <!--<div style="float:left; clear:right; width:50%">
 <img src="../../images/logos/ecai_logo.png" style="width:250px"/>
 </div>-->
