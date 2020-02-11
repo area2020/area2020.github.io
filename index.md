@@ -122,6 +122,13 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <li>Workshop: 8th June 2020</li>
 </ul>
 
+## Invited Speakers
+
+<ul>
+  <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
+  <li>to be announced</li>
+</ul>
+
 ## Organisers
 
 <ul>
