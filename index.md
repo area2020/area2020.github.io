@@ -159,6 +159,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <li>Ilaria Matteucci, Istituto di Informatica e Telematica, CNR (Italy)</li>
 <li>Ettore Merlo, Ecole Polytechnique of Montreal (Canada)</li>
 <li>Alexandre de Oliverira Zamberlan, UFN (Brazil)</li>
+<li>Eva Onaindia, Polytechnic University of Valencia (Spain)</li>
 <li>John-Paul Ore, Department of Computer Science at NC State University (US)</li>
 <li>Liliana Pasquale, University College Dublin and  Lero - the Irish Software Research Centre (Ireland)</li>
 <li>Fabrizio Pastore, SnT Centre for Security Reliability and Trust (Luxembourg)</li>
