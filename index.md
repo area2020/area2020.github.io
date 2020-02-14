@@ -194,7 +194,7 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 </div>
 
-
+<!---
 <div>
   <div class="container">
     <img src="../../images/logos/RAIN.png" style="height:150px"/>
@@ -206,3 +206,4 @@ For more information contact us at area2020.workshop@gmail.com
     <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" height="height:150px"/>
   </div>
 </div>
+--->
