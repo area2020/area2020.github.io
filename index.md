@@ -110,6 +110,8 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 
 
 </div>
+</div>
+
 <div class="row">
   <div class="column">
     <img src="../../images/logos/RAIN.png" style="width:150px"/>
@@ -120,7 +122,6 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
   <div class="column">
     <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="width:150px"/>
   </div>
-</div>
 </div>
 
 
