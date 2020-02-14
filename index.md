@@ -4,6 +4,16 @@ title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
 image: https://area2020.github.io/images/logos/area_logo_1.png
 ---
 
+<style>
+  div.container {
+    display:inline-block;
+  }
+
+  p {
+    text-align:center;
+  }
+</style>
+
 <div class="columns large-7" >
 <div markdown="1">
 
