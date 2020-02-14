@@ -112,19 +112,6 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="../../images/logos/RAIN.png" style="width:150px"/>
-  </div>
-  <div class="column">
-    <img src="../../images/logos/orca.jpeg" style="width:150px"/>
-  </div>
-  <div class="column">
-    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="width:150px"/>
-  </div>
-</div>
-
-
 <div class="columns large-5" >
 <div markdown="1">
 
@@ -198,3 +185,15 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 
 
+
+<div class="row">
+  <div class="column">
+    <img src="../../images/logos/RAIN.png" style="width:150px"/>
+  </div>
+  <div class="column">
+    <img src="../../images/logos/orca.jpeg" style="width:150px"/>
+  </div>
+  <div class="column">
+    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="width:150px"/>
+  </div>
+</div>
