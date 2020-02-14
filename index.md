@@ -176,6 +176,11 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 
 For more information contact us at area2020.workshop@gmail.com
 
+
+
+</div>
+</div>
+
 <div class="columns large-3" >
 <div markdown="1">
 <div>
@@ -197,8 +202,5 @@ For more information contact us at area2020.workshop@gmail.com
 <div>
 <img src="../../images/logos/orca.jpeg" style="width:150px"/>
 </div>
-</div>
-</div>
-
 </div>
 </div>
