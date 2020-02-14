@@ -106,28 +106,17 @@ Formatting guidelines should follow LNCS: <a href="https://www.springer.com/gp/c
 Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
 </p>
 
-<div class="columns large-3" >
-<div markdown="1">
-<div>
-<img src="../../images/logos/RAIN.png" style="width:150px"/>
-</div>
-</div>
-</div>
 
-<div class="columns large-3" >
-<div markdown="1">
-<div>
-<img src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="width:150px"/>
-</div>
-</div>
-</div>
-
-<div class="columns large-3" >
-<div markdown="1">
-<div>
-<img src="../../images/logos/orca.jpeg" style="width:150px"/>
-</div>
-</div>
+<div class="row">
+  <div class="column">
+    <img src="../../images/logos/RAIN.png" style="width:150px"/>
+  </div>
+  <div class="column">
+    <img src="../../images/logos/orca.jpeg" style="width:150px"/>
+  </div>
+  <div class="column">
+    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="width:150px"/>
+  </div>
 </div>
 
 </div>
