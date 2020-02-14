@@ -195,14 +195,14 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 
 
-
-<div class="container">
+<div>
+  <div class="container">
     <img src="../../images/logos/RAIN.png" style="height:150px"/>
   </div>
   <div class="container">
     <img src="../../images/logos/orca.jpeg" style="height:150px"/
   </div>
   <div class="container">
-    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" height="width:150px"/>
+    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" height="height:150px"/>
   </div>
 </div>
