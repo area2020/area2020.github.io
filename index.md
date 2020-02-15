@@ -102,9 +102,9 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
 The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
-<br>
+<br><br>
 Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
-<br>
+<br><br>
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
 </p>
 
