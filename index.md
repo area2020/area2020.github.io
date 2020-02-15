@@ -4,16 +4,6 @@ title: "Workshop on Agents and Robots for reliable Engineered Autonomy"
 image: https://area2020.github.io/images/logos/area_logo_1.png
 ---
 
-<style>
-  div.container {
-    display:inline-block;
-  }
-
-  p {
-    text-align:center;
-  }
-</style>
-
 <div class="columns large-7" >
 <div markdown="1">
 
@@ -107,13 +97,15 @@ Participants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
-Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. We are negotiating with a publisher for publishing the proceedings of the workshop. We are also in the process of applying for a special issue for the post-proceedings where revised selected papers will be published. <!--, using the <a href="http://style.eptcs.org/">EPTCS formatting guidelines</a> (<a href="https://cgi.cse.unsw.edu.au/~eptcs/eptcsstyle.zip">LaTex</a>). -->
+Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. 
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
-Formatting guidelines should follow LNCS: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines</a>
+The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br>
 Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
+<br>
+We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
 </p>
 
 
