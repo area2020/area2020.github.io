@@ -116,13 +116,11 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <a href="https://orcahub.org/" target="_blank">
   <img align="left" src="../../images/logos/orca.jpeg" style="height:100px" alt="ORCA Hub" title="ORCA Hub" hspace="10"/>
 </a>
-<!---
 <a href="https://www.fairspacehub.org/" target="_blank">
   <img align="left" src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="height:100px" alt="FAIR-SPACE Hub" title="FAIR-SPACE Hub" hspace="20"/>
 </a>
---->
 <a href="https://www.consorzio-cini.it/index.php/en/labaiis-home" target="_blank">
-  <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:100px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
+  <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:110px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
 </a>
 
 </div>
