@@ -109,9 +109,16 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 </p>
 
 ### Patronage
-
+<!---
 <a href="https://rainhub.org.uk/" target="_blank">
-  <img align="left" src="../../images/logos/RAIN.png" style="height:125px" alt="RAIN Hub" hspace="20"/>
+  <img align="left" src="../../images/logos/RAIN.png" style="height:100px" alt="RAIN Hub" hspace="20"/>
+</a>
+<a href="https://orcahub.org/" target="_blank">
+  <img align="left" src="../../images/logos/orca.jpeg" style="height:100px" alt="ORCA Hub" hspace="20"/>
+</a>
+--->
+<a href="https://www.consorzio-cini.it/index.php/en/labaiis-home" target="_blank">
+  <img align="left" src="Logo_AIIS.jpg" style="height:100px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" hspace="20"/>
 </a>
 
 </div>
