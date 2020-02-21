@@ -186,6 +186,10 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 </div>
 
+<a href="https://rainhub.org.uk/" target="_blank">
+  <img align="left" src="../../images/logos/RAIN.png" style="height:150px" alt="RAIN Hub" hspace="20"/>
+</a>
+
 <!---
 <div>
   <div class="container">
