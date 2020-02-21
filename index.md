@@ -111,7 +111,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 ### Patronage
 
 <a href="https://rainhub.org.uk/" target="_blank">
-  <img align="left" src="../../images/logos/RAIN.png" style="height:150px" alt="RAIN Hub" hspace="20"/>
+  <img align="left" src="../../images/logos/RAIN.png" style="height:125px" alt="RAIN Hub" hspace="20"/>
 </a>
 
 </div>
