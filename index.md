@@ -116,9 +116,12 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <a href="https://orcahub.org/" target="_blank">
   <img align="left" src="../../images/logos/orca.jpeg" style="height:100px" alt="ORCA Hub" hspace="20"/>
 </a>
+<a href="https://www.fairspacehub.org/" target="_blank">
+  <img align="left" src="../../images/logos/FAIR-SPACE_Logo_Col.png" style="height:100px" alt="FAIR-SPACE Hub" hspace="20"/>
+</a>
 --->
 <a href="https://www.consorzio-cini.it/index.php/en/labaiis-home" target="_blank">
-  <img align="left" src="Logo_AIIS.jpg" style="height:100px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" hspace="20"/>
+  <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:100px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" hspace="20"/>
 </a>
 
 </div>
@@ -195,19 +198,3 @@ For more information contact us at area2020.workshop@gmail.com
 
 </div>
 </div>
-
-
-
-<!---
-<div>
-  <div class="container">
-    <img src="../../images/logos/RAIN.png" style="height:150px"/>
-  </div>
-  <div class="container">
-    <img src="../../images/logos/orca.jpeg" style="height:150px"/
-  </div>
-  <div class="container">
-    <img src="../../images/logos/FAIR-SPACE_Logo_Col.png" height="height:150px"/>
-  </div>
-</div>
---->
