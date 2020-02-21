@@ -108,8 +108,11 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
 </p>
 
+### Patronage
 
-
+<a href="https://rainhub.org.uk/" target="_blank">
+  <img align="left" src="../../images/logos/RAIN.png" style="height:150px" alt="RAIN Hub" hspace="20"/>
+</a>
 
 </div>
 </div>
@@ -186,9 +189,7 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 </div>
 
-<a href="https://rainhub.org.uk/" target="_blank">
-  <img align="left" src="../../images/logos/RAIN.png" style="height:150px" alt="RAIN Hub" hspace="20"/>
-</a>
+
 
 <!---
 <div>
