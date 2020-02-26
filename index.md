@@ -130,12 +130,13 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <div markdown="1">
 
 
-## Important Dates
+## Important Dates (updated)
 
 <ul>
-<li>Submission Deadline: 1st March 2020</li>
-<li>Paper Notification: 8th April 2020</li>
-<li>Camera Ready: 8th May 2020</li>
+<li><b>Abstract Submission (optional): 1st March 2020</b></li>
+<li><b>Paper Submission Deadline (extended from 1st March): 15th March 2020 (AoE, UTC-12)</b></li>
+<li>Paper Notification: 15th April 2020</li>
+<li>Camera Ready: 15th May 2020</li>
 <li>Workshop: 8th June 2020</li>
 </ul>
 
