@@ -123,6 +123,13 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
 </a>
 
+
+### Media Partner
+
+<a href="https://www.mdpi.com/journal/jsan" target="_blank">
+  <img align="left" src="../../images/logos/JSAN_partnership.png" style="height:100px" style="width:100px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks"/>
+</a>
+
 </div>
 </div>
 
