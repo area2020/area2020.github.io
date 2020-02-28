@@ -123,6 +123,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   <img align="left" src="../../images/logos/Logo_AIIS.jpg" style="height:140px" style="width:140px" alt="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab" title="Milano - Bicocca Node of theAIIS(ArtificialIntelligence andIntelligentSystems) CINI National Lab"/>
 </a>
 
+<br><br>
 
 ### Media Partner
 
