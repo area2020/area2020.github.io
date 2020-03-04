@@ -132,7 +132,10 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 ### Media Partner
 
 <a href="https://www.mdpi.com/journal/jsan" target="_blank">
-  <img align="left" src="../../images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks"/>
+  <img align="left" src="../../images/logos/JSAN_partnership.png" style="height:200px" style="width:200px" alt="Journal of Sensor and Actuator Networks" title="Journal of Sensor and Actuator Networks" hspace="20"/>
+</a>
+<a href="https://www.mdpi.com/journal/jsan" target="_blank">
+  <img align="left" src="../../images/logos/Computers_partnership-01.png" style="height:200px" style="width:200px" alt="Computers — Open Access Journal" title="Computers — Open Access Journal" hspace="20"/>
 </a>
 
 </div>
