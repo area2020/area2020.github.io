@@ -152,7 +152,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <li><b>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</b></li>
 <li>Paper Notification: 10th June 2020</li>
 <li>Camera Ready: 10th July 2020</li>
-<li>Workshop: 29th or 30th August 2020</li><br>
+<li>Workshop: 29th or 30th August 2020</li>
   <br>
 *Dates changed due to the COVID-19 outbreak. More information is available here: <a href="http://ecai2020.eu/covid-awareness/" target="_blank">http://ecai2020.eu/covid-awareness/</a>
 </ul>
