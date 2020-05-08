@@ -201,6 +201,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <li>Patrizio Pelliccione, Chalmers | University of Gothenburg (Sweden) and University of L'Aquila (Italy)</li>
 <li>Pedro Ribeiro, University of York (UK)</li>
 <li>Alessandro Ricci, University of Bologna (Italy)</li>
+<li>Ana Paula Rocha, University of Porto (Portugal)</li>
 <li>Oliviero Riganelli, University of Milano Bicocca (Italy)</li>
 <li>Lavindra da Silva, University of Cambridge (UK)</li>
 <li>Christos Tsigkanos, Technical University of Vienna (Austria)</li>
