@@ -149,7 +149,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 
 <ul>
 <!--<li><b>Abstract Submission (optional): 3rd May 2020</b></li>-->
-<li><b>~~Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)~~</b></li>
+<li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
 <li>Paper Notification: 10th June 2020</li>
 <li>Camera Ready: 10th July 2020</li>
 <li>Workshop: 29th August 2020</li>
