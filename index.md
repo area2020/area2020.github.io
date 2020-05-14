@@ -170,7 +170,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Liverpool (UK)</li>
   <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Liverpool (UK)</li>
   <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
-  <li>Claudio Menghi, University of Luxembourg (Luxembourg)</li>
+  <li><a href="https://claudiomenghi.github.io/" target="_blank">Claudio Menghi</a>, University of Luxembourg (Luxembourg)</li>
   <li>Daniela Briola, University of Milano-Bicocca (Italy)</li>
 </ul>
 
