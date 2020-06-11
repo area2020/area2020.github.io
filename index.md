@@ -152,15 +152,15 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
 <li>Paper Notification: 10th June 2020</li>
 <li>Camera Ready: 10th July 2020</li>
-<li>Workshop: 29th August 2020</li>
+<li>Workshop: 29th or 30th August or 4th or 5th September 2020</li>
   <br>
-*Dates changed due to the COVID-19 outbreak. More information is available here: <a href="http://ecai2020.eu/covid-awareness/" target="_blank">http://ecai2020.eu/covid-awareness/</a>
+*AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ECAI workshop chairs.
 </ul>
 
 ## Invited Speakers
 
 <ul>
-<!---  <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li> --->
+<li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
   <li>to be announced</li>
 </ul>
 
