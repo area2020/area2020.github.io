@@ -97,7 +97,7 @@ Participants are invited to submit either:
 </p>
 <p align="justify">
 Regular papers must not exceed fifteen (15) pages single column and short papers must not exceed seven (7) pages single column, excluding references and appendices.
-Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews. 
+Submissions are accepted in PDF format only. Each submission will receive at least three, single-blind reviews.
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
@@ -107,6 +107,43 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 <br><br>
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
 </p>
+
+## Accepted Papers
+
+
+<ul>
+  <li>
+  Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+  </li>
+  <li>
+  Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
+  </li>
+  <li>
+  Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi. <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
+  </li>
+  <li>
+  Victoria Edwards, Loy McGuire and Signe Redfield. <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
+  </li>
+  <li>
+  Simón C. Smith and Subramanian Ramamoorthy. <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
+  </li>
+  <li>
+  Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen. <i>Testing the Robustness of AutoML Systems</i>.
+  </li>
+  <li>
+  Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler. <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
+  </li>
+  <li>
+  Connor Basich, Justin Svegliato and Shlomo Zilberstein. <i>Improving Competence for Reliable Autonomy</i>.
+  </li>
+  <li>
+  Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari. <i>Toward Campus Mail Delivery Using BDI</i>.
+  </li>
+  <li>
+  Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari. <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+  </li>
+</ul>
+
 
 ### Patronage
 
