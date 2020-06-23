@@ -110,7 +110,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 
 ## Accepted Papers
 
-<span style="text-align:justify;">
+<div style="text-align:justify;">
 <ul>
   <li>
   Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
@@ -143,7 +143,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari. <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
   </li>
 </ul>
-</span>
+</div>
 
 ### Patronage
 
