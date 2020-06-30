@@ -145,6 +145,127 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 </ul>
 </div>
 
+## Provisional programme : Friday 4th of September
+
+<table>
+    <body>
+        <tr>
+            <th>13:00</th>
+            <td colspan="4" class="stage-saturn">Welcome</td>
+        </tr>
+        <tr>
+            <th>13:10</th>
+            <td colspan="4" class="stage-earth">Keynote: <a href="https://sites.google.com/view/charles-lesire"> Charles Lesire </a>
+              <span> Abstract: TBA
+              </span>
+            </td>
+        </tr>
+        <tr>
+            <th>13:40</th>
+            <td colspan="4" class="stage-mercury">Break</td>
+        </tr>
+        <tr>
+            <th>14:00</th>
+            <td colspan="4" class="stage-venus">
+            Question and Answer: Verification
+            <span>
+              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+            </span>
+            <br/>
+            <span>
+              Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
+              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>14:20</th>
+            <td colspan="4" class="stage-mars">
+            Question and Answer: Reliability
+            <span>
+              Victoria Edwards, Loy McGuire and Signe Redfield.
+              <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
+            </span>
+            <br/>
+            <span>
+              Connor Basich, Justin Svegliato and Shlomo Zilberstein.
+              <i>Improving Competence for Reliable Autonomy</i>.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>14:40</th>
+            <td colspan="4" class="stage-venus">
+            Question and Answer: Engineering
+            <span>
+              Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
+              <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
+            </span>
+            <br/>
+            <span>
+              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
+              <i>Toward Campus Mail Delivery Using BDI</i>.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>15:00</th>
+            <td colspan="4" class="stage-mars">
+            Question and Answer: Learning
+            <span>
+              Simón C. Smith and Subramanian Ramamoorthy.
+              <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
+            </span>
+            <br/>
+            <span>
+              Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
+              <i>Testing the Robustness of AutoML Systems</i>.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>15:20</th>
+            <td colspan="4" class="stage-venus">
+            Question and Answer: Simulation
+            <span>
+              Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
+              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
+            </span>
+            <br/>
+            <span>
+              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
+              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+            </span>
+            </td>
+        </tr>
+        <tr>
+            <th>15:40</th>
+            <td colspan="4" class="stage-mercury">Break</td>
+        </tr>
+        <tr>
+            <th>16:00</th>
+            <td colspan="4" class="stage-earth">Keynote 2
+              <span>TBA
+              </span>
+            </td>
+        </tr>
+        <tr>
+            <th>16:30</th>
+            <td colspan="4" class="stage-jupiter">Discussion panel
+              <span> TBA
+              </span>
+            </td>
+        </tr>
+        <tr>
+            <th>17:00</th>
+            <td colspan="4" class="stage-saturn">Closing remarks
+            </td>
+        </tr>
+    </body>
+</table>
+
+
 ### Patronage
 
 <a href="https://rainhub.org.uk/" target="_blank">
