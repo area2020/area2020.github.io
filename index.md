@@ -147,6 +147,8 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 
 ## Provisional programme : Friday 4th of September
 
+The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
+
 <table>
     <body>
         <tr>
