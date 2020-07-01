@@ -213,6 +213,13 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>14:50</th>
+            <td colspan="4" class="stage-earth">Keynote 2
+              <span>TBA
+              </span>
+            </td>
+        </tr>
+        <tr>
+            <th>15:20</th>
             <td colspan="4" class="stage-mars">
             Question and Answer: Learning
             <span>
@@ -227,7 +234,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-            <th>15:10</th>
+            <th>15:40</th>
             <td colspan="4" class="stage-venus">
             Question and Answer: Simulation
             <span>
@@ -242,21 +249,21 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-            <th>15:30</th>
-            <td colspan="4" class="stage-earth">Keynote 2
+            <th>16:00</th>
+            <td colspan="4" class="stage-earth">Keynote 3
               <span>TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>16:00</th>
+            <th>16:30</th>
             <td colspan="4" class="stage-jupiter">Discussion panel
               <span> TBA
               </span>
             </td>
         </tr>
         <tr>
-            <th>16:30</th>
+            <th>17:00</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
