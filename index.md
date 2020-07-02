@@ -270,13 +270,6 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>17:40</th>
-            <td colspan="4" class="stage-jupiter">Discussion panel
-              <span> TBA
-              </span>
-            </td>
-        </tr>
-        <tr>
-            <th>18:10</th>
             <td colspan="4" class="stage-saturn">Closing remarks
             </td>
         </tr>
