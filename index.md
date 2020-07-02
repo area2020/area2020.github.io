@@ -322,7 +322,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li>Camera Ready: 10th July 2020</li>
-<li>Workshop: 29th or 30th August or 4th or 5th September 2020</li>
+<li>Workshop: 4th September 2020</li>
   <br>
 *AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ECAI workshop chairs.
 </ul>
