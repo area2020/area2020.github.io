@@ -165,7 +165,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>13:40</th>
             <td colspan="4" class="stage-venus">
-            Slot 1: Verification [Chair: Angelo Ferrando]
+            Slot 1: Verification [Chair: Claudio Menghi]
             <span>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
               <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
@@ -226,7 +226,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:50</th>
             <td colspan="4" class="stage-mars">
-            Slot 4: Learning [Chair: Claudio Menghi]
+            Slot 4: Learning [Chair: Angelo Ferrando]
             <span>
               Simón C. Smith and Subramanian Ramamoorthy.
               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
