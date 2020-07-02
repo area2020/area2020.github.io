@@ -165,10 +165,10 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>13:40</th>
             <td colspan="4" class="stage-venus">
-            Question and Answer: Verification
+            Slot 1: Verification
             <span>
-              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
-              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+              Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
+              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
             </span>
             <br/>
             <span>
@@ -202,8 +202,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </span>
             <br/>
             <span>
-              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
-              <i>Toward Campus Mail Delivery Using BDI</i>.
+              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
+              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
             </span>
             </td>
         </tr>
@@ -236,15 +236,15 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:40</th>
             <td colspan="4" class="stage-venus">
-            Question and Answer: Simulation
+            Question and Answer: BDI Agents
             <span>
-              Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
-              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
+              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
+              <i>Toward Campus Mail Delivery Using BDI</i>.
             </span>
             <br/>
             <span>
-              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
-              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
             </span>
             </td>
         </tr>
