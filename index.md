@@ -164,57 +164,60 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>13:40</th>
-            <td colspan="4" rowspan="2" class="stage-venus">
+            <td colspan="4" class="stage-venus">
             Slot 1: Verification
             <span>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
               <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
             </span>
-            <br/>
-            <span>
-              Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
-              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
-            </span>
             </td>
         </tr>
         <tr>
           <th>14:00</th>
+          <td colspan="4" class="stage-venus">
+            <span>
+              Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
+              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
+            </span>
+          </td>
         </tr>
         <tr>
             <th>14:20</th>
-            <td colspan="4" rowspan="2" class="stage-mars">
+            <td colspan="4" class="stage-mars">
             Slot 2: Reliability
             <span>
               Victoria Edwards, Loy McGuire and Signe Redfield.
               <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
             </span>
-            <br/>
-            <span>
-              Connor Basich, Justin Svegliato and Shlomo Zilberstein.
-              <i>Improving Competence for Reliable Autonomy</i>.
-            </span>
             </td>
         </tr>
         <tr>
           <th>14:40</th>
+          <td colspan="4" class="stage-mars">
+             <span>
+              Connor Basich, Justin Svegliato and Shlomo Zilberstein.
+              <i>Improving Competence for Reliable Autonomy</i>.
+            </span>
+          </td>
         </tr>
         <tr>
             <th>15:00</th>
-            <td colspan="4" rowspan="2" class="stage-venus">
+            <td colspan="4" class="stage-venus">
             Slot 3: Engineering
             <span>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
               <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
             </span>
-            <br/>
-            <span>
-              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
-              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
-            </span>
             </td>
         </tr>
        <tr>
           <th>15:20</th>
+         <td colspan="4" class="stage-venus">
+           <span>
+              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
+              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+            </span>
+         </td>
         </tr>
        <tr>
             <th>15:40</th>
@@ -222,21 +225,22 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>15:50</th>
-            <td colspan="4" rowspan="2" class="stage-mars">
+            <td colspan="4" class="stage-mars">
             Slot 4: Learning
             <span>
               Simón C. Smith and Subramanian Ramamoorthy.
               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
             </span>
-            <br/>
-            <span>
-              Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
-              <i>Testing the Robustness of AutoML Systems</i>.
-            </span>
             </td>
         </tr>
         <tr>
           <th>16:10</th>
+          <td colspan="4" class="stage-mars">
+            <span>
+              Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
+              <i>Testing the Robustness of AutoML Systems</i>.
+            </span>
+          </td>
         </tr>
         <tr>
             <th>16:30</th>
@@ -246,15 +250,16 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
               Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
               <i>Toward Campus Mail Delivery Using BDI</i>.
             </span>
-            <br/>
-            <span>
-              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
-              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
-            </span>
             </td>
         </tr>
         <tr>
           <th>16:50</th>
+           <td colspan="4" class="stage-venus">
+            <span>
+              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+            </span>
+           </td>
         </tr>
         <tr>
             <th>17:10</th>
