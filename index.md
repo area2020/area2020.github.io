@@ -183,7 +183,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>14:20</th>
             <td colspan="4" rowspan="2" class="stage-mars">
-            Question and Answer: Reliability
+            Slot 2: Reliability
             <span>
               Victoria Edwards, Loy McGuire and Signe Redfield.
               <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
@@ -201,7 +201,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:00</th>
             <td colspan="4" rowspan="2" class="stage-venus">
-            Question and Answer: Engineering
+            Slot 3: Engineering
             <span>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
               <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
@@ -223,7 +223,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:50</th>
             <td colspan="4" rowspan="2" class="stage-mars">
-            Question and Answer: Learning
+            Slot 4: Learning
             <span>
               Simón C. Smith and Subramanian Ramamoorthy.
               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
@@ -241,7 +241,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>16:30</th>
             <td colspan="4" class="stage-venus">
-            Question and Answer: BDI Agents
+            Slot 5: BDI Agents
             <span>
               Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
               <i>Toward Campus Mail Delivery Using BDI</i>.
