@@ -225,6 +225,13 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>15:50</th>
+            <td colspan="4" class="stage-earth">Keynote 2
+              <span>TBA
+              </span>
+            </td>
+        </tr>
+        <tr>
+            <th>16:20</th>
             <td colspan="4" class="stage-mars">
             Slot 4: Learning [Chair: Angelo Ferrando]
             <span>
@@ -234,7 +241,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-          <th>16:10</th>
+          <th>16:40</th>
           <td colspan="4" class="stage-mars">
             <span>
               <i>Testing the Robustness of AutoML Systems</i>. <br/>
@@ -243,7 +250,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           </td>
         </tr>
         <tr>
-            <th>16:30</th>
+            <th>17:00</th>
             <td colspan="4" class="stage-venus">
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
@@ -253,21 +260,14 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             </td>
         </tr>
         <tr>
-          <th>16:50</th>
+          <th>17:20</th>
            <td colspan="4" class="stage-venus">
             <span>
               <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>. <br/>
               Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
             </span>
            </td>
-        </tr>
-        <tr>
-            <th>17:10</th>
-            <td colspan="4" class="stage-earth">Keynote 2
-              <span>TBA
-              </span>
-            </td>
-        </tr>
+      </tr>
         <tr>
             <th>17:40</th>
             <td colspan="4" class="stage-saturn">Closing remarks
