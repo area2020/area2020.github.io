@@ -165,7 +165,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>13:40</th>
             <td colspan="4" class="stage-venus">
-            Slot 1: Verification
+            Slot 1: Verification [Chair: Angelo Ferrando]
             <span>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
               <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
@@ -184,7 +184,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>14:20</th>
             <td colspan="4" class="stage-mars">
-            Slot 2: Reliability
+            Slot 2: Reliability [Chair: Rafael C. Cardoso]
             <span>
               Victoria Edwards, Loy McGuire and Signe Redfield.
               <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
@@ -203,7 +203,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:00</th>
             <td colspan="4" class="stage-venus">
-            Slot 3: Engineering
+            Slot 3: Engineering [Chair: Daniela Briola]
             <span>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
               <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
@@ -226,7 +226,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:50</th>
             <td colspan="4" class="stage-mars">
-            Slot 4: Learning
+            Slot 4: Learning [Chair: Claudio Menghi]
             <span>
               Simón C. Smith and Subramanian Ramamoorthy.
               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
@@ -245,7 +245,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>16:30</th>
             <td colspan="4" class="stage-venus">
-            Slot 5: BDI Agents
+            Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
               Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
               <i>Toward Campus Mail Delivery Using BDI</i>.
