@@ -168,6 +168,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
     </body>
 </table>
 
+<br><br>
+
 <p align="justify">
 Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios is largely adopted when logical distribution is needed, while still limited when physical distribution is necessary.
 In parallel, robots are no longer used only in industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue. Robots in these applications often benefit from (or require) some level (semi or full) of autonomy. Thus, multi-agent solutions can be exploited in robotic scenarios, considering their strong similarity both in terms of logical distribution and interaction among autonomous entities.<br>
