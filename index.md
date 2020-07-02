@@ -333,7 +333,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 
 <ul>
 <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
-  <li>to be announced</li>
+  <li><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>, Senior Lecturer at Technion – Israel Institute of Technology (Israel)</li>
 </ul>
 
 ## Organisers
