@@ -167,8 +167,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 1: Verification [Chair: Claudio Menghi]
             <span>
+              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
-              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
             </span>
             </td>
         </tr>
@@ -176,8 +176,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>14:00</th>
           <td colspan="4" class="stage-venus">
             <span>
+              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>. <br/>
               Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
-              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
             </span>
           </td>
         </tr>
@@ -186,8 +186,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-mars">
             Slot 2: Reliability [Chair: Rafael C. Cardoso]
             <span>
+              <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>. <br/>
               Victoria Edwards, Loy McGuire and Signe Redfield.
-              <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>.
             </span>
             </td>
         </tr>
@@ -195,8 +195,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>14:40</th>
           <td colspan="4" class="stage-mars">
              <span>
+              <i>Improving Competence for Reliable Autonomy</i>. <br/>
               Connor Basich, Justin Svegliato and Shlomo Zilberstein.
-              <i>Improving Competence for Reliable Autonomy</i>.
             </span>
           </td>
         </tr>
@@ -205,8 +205,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 3: Engineering [Chair: Daniela Briola]
             <span>
+              <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
-              <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
             </span>
             </td>
         </tr>
@@ -214,8 +214,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>15:20</th>
          <td colspan="4" class="stage-venus">
            <span>
-              	Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari	.
-              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>.
+              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>. <br/>
+             Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari.
             </span>
          </td>
         </tr>
@@ -228,8 +228,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-mars">
             Slot 4: Learning [Chair: Angelo Ferrando]
             <span>
+               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>. <br/>
               Simón C. Smith and Subramanian Ramamoorthy.
-              <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>.
             </span>
             </td>
         </tr>
@@ -237,8 +237,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>16:10</th>
           <td colspan="4" class="stage-mars">
             <span>
+              <i>Testing the Robustness of AutoML Systems</i>. <br/>
               Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
-              <i>Testing the Robustness of AutoML Systems</i>.
             </span>
           </td>
         </tr>
@@ -247,8 +247,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
+              <i>Toward Campus Mail Delivery Using BDI</i>. <br/>
               Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
-              <i>Toward Campus Mail Delivery Using BDI</i>.
             </span>
             </td>
         </tr>
@@ -256,8 +256,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>16:50</th>
            <td colspan="4" class="stage-venus">
             <span>
+              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>. <br/>
               Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
-              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
             </span>
            </td>
         </tr>
