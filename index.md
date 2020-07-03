@@ -155,7 +155,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>17:20</th>
            <td colspan="4" class="stage-venus">
             <span>
-              <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>. <br/>
+              <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
               Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
             </span>
            </td>
@@ -246,7 +246,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <div style="text-align:justify;">
 <ul>
   <li>
-  Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Towards the Verification of Adaptable Reasoning in Autonomous Systems</i>.
+  Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Adaptable and Verifiable BDI Reasoning</i>.
   </li>
   <li>
   Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
