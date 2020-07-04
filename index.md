@@ -118,7 +118,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         <tr>
             <th>15:50</th>
             <td colspan="4" class="stage-earth">Invited talk: <a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>
-              <span>TBA
+              <span> Abstract: TBA
               </span>
             </td>
         </tr>
