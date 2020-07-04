@@ -326,7 +326,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <li>Camera Ready: 10th July 2020</li>
 <li>Workshop: 4th September 2020</li>
   <br>
-*AREA 2020 will be held virtually. More information about the format and confirmation of the exact date of the workshop will follow as soon as it is confirmed with the ECAI workshop chairs.
+*AREA 2020 will be held virtually. More information about the online platform and registration will follow as soon as the details are confirmed.
 </ul>
 
 ## Invited Speakers
