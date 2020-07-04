@@ -147,7 +147,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
               <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
-              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+              Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise Dennis.
 
             </span>
             </td>
