@@ -146,8 +146,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
-              <i>Toward Campus Mail Delivery Using BDI</i>. <br/>
-              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
+              <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
+              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+
             </span>
             </td>
         </tr>
@@ -155,8 +156,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>17:20</th>
            <td colspan="4" class="stage-venus">
             <span>
-              <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
-              Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis.
+              <i>Toward Campus Mail Delivery Using BDI</i>. <br/>
+              Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
             </span>
            </td>
       </tr>
