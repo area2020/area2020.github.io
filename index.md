@@ -45,7 +45,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
     <body>
         <tr>
             <th>13:00</th>
-            <td colspan="4" class="stage-saturn">Welcome</td>
+            <td colspan="4" class="stage-saturn">Opening remarks</td>
         </tr>
         <tr>
             <th>13:10</th>
