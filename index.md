@@ -49,7 +49,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>13:10</th>
-            <td colspan="4" class="stage-earth">Keynote: <a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>
+            <td colspan="4" class="stage-earth">Invited talk: <a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>
               <span> Abstract: TBA
               </span>
             </td>
@@ -117,7 +117,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>15:50</th>
-            <td colspan="4" class="stage-earth">Keynote: <a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>
+            <td colspan="4" class="stage-earth">Invited talk: <a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>
               <span>TBA
               </span>
             </td>
