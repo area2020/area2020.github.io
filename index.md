@@ -318,7 +318,15 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <div markdown="1">
 
 
-## Important Dates*
+## Registration
+
+AREA 2020 will be held virtually.
+To register to AREA please register to ECAI 2020 **and** AREA 2020 in eventbrite:
+<a href="https://digital.ecai2020.eu/sign-up/" target="_blank">ECAI 2020 registration</a>
+<a href="https://www.eventbrite.co.uk/e/area-2020-tickets-113010643878" target="_blank">AREA 2020 registration</a>
+
+
+## Important Dates
 
 <ul>
 <!--<li><b>Abstract Submission (optional): 3rd May 2020</b></li>-->
@@ -326,8 +334,6 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li>Camera Ready: 10th July 2020</li>
 <li>Workshop: 4th September 2020</li>
-  <br>
-*AREA 2020 will be held virtually. More information about the online platform and registration will follow as soon as the details are confirmed.
 </ul>
 
 ## Invited Speakers
