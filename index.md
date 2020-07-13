@@ -320,8 +320,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 
 ## Registration
 
-AREA 2020 will be held virtually.   
-To register to AREA please register to ECAI 2020 **and** AREA 2020 in eventbrite:   
+AREA 2020 will be held virtually. To register to AREA please register to ECAI 2020 **and** AREA 2020 in eventbrite:   
 <a href="https://digital.ecai2020.eu/sign-up/" target="_blank">ECAI 2020 registration</a>   
 <a href="https://www.eventbrite.co.uk/e/area-2020-tickets-113010643878" target="_blank">AREA 2020 registration</a>
 
