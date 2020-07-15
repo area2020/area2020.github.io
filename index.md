@@ -97,7 +97,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 3: Engineering [Chair: Daniela Briola]
             <span>
-              <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
+              <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
             </span>
             </td>
@@ -250,7 +250,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Adaptable and Verifiable BDI Reasoning</i>.
   </li>
   <li>
-  Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Early Experiments on Programming Autonomous Robots in Jadescript</i>.
+  Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>.
   </li>
   <li>
   Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi. <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>.
