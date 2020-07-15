@@ -147,7 +147,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
               <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
-              Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise Dennis.
+              Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise A. Dennis.
 
             </span>
             </td>
@@ -247,7 +247,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
 <div style="text-align:justify;">
 <ul>
   <li>
-  Peter Stringer, Rafael Cardoso, Xiaowei Huang and Louise Dennis. <i>Adaptable and Verifiable BDI Reasoning</i>.
+  Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise A. Dennis. <i>Adaptable and Verifiable BDI Reasoning</i>.
   </li>
   <li>
   Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti. <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>.
