@@ -88,7 +88,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <td colspan="4" class="stage-mars">
              <span>
               <i>Improving Competence for Reliable Autonomy</i>. <br/>
-              Connor Basich, Justin Svegliato and Shlomo Zilberstein.
+              Connor Basich, Justin Svegliato, Kyle Hollins Wray, Stefan J. Witwicki and Shlomo Zilberstein.
             </span>
           </td>
         </tr>
@@ -268,7 +268,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler. <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>.
   </li>
   <li>
-  Connor Basich, Justin Svegliato and Shlomo Zilberstein. <i>Improving Competence for Reliable Autonomy</i>.
+  Connor Basich, Justin Svegliato, Kyle Hollins Wray, Stefan J. Witwicki and Shlomo Zilberstein. <i>Improving Competence for Reliable Autonomy</i>.
   </li>
   <li>
   Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari. <i>Toward Campus Mail Delivery Using BDI</i>.
