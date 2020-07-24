@@ -69,7 +69,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>14:00</th>
           <td colspan="4" class="stage-venus">
             <span>
-              <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>. <br/>
+              <img src="../../images/logos/s_icon.png" style="width:20px"/> <i>Statistical Model Checking of Human-Robot Interaction Scenarios</i>. <br/>
               Livia Lestingi, Mehrnoosh Askarpour, Marcello Maria Bersani and Matteo Rossi.
             </span>
           </td>
@@ -88,7 +88,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>14:40</th>
           <td colspan="4" class="stage-mars">
              <span>
-              <i>Improving Competence for Reliable Autonomy</i>. <br/>
+              <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Improving Competence for Reliable Autonomy</i>. <br/>
               Connor Basich, Justin Svegliato, Kyle Hollins Wray, Stefan J. Witwicki and Shlomo Zilberstein.
             </span>
           </td>
@@ -98,7 +98,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 3: Engineering [Chair: Daniela Briola]
             <span>
-              <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
+              <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
             </span>
             </td>
@@ -107,7 +107,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>15:20</th>
          <td colspan="4" class="stage-venus">
            <span>
-              <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>. <br/>
+             <img src="../../images/logos/s_icon.png" style="width:20px"/>  <i>Engineering Reliable Interactions in the Reality-Artificiality Continuum</i>. <br/>
              Davide Ancona, Chiara Bassano, Manuela Chessa, Viviana Mascardi and Fabio Solari.
             </span>
          </td>
@@ -128,7 +128,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-mars">
             Slot 4: Learning [Chair: Angelo Ferrando]
             <span>
-               <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>. <br/>
+              <img src="../../images/logos/f_icon.png" style="width:20px"/>  <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>. <br/>
               Simón C. Smith and Subramanian Ramamoorthy.
             </span>
             </td>
@@ -137,7 +137,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>16:40</th>
           <td colspan="4" class="stage-mars">
             <span>
-              <i>Testing the Robustness of AutoML Systems</i>. <br/>
+             <img src="../../images/logos/f_icon.png" style="width:20px"/>  <i>Testing the Robustness of AutoML Systems</i>. <br/>
               Tuomas Halvari, Jukka K. Nurminen and Tommi Mikkonen.
             </span>
           </td>
@@ -147,7 +147,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
             <span>
-              <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
+             <img src="../../images/logos/s_icon.png" style="width:20px"/>  <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
               Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise A. Dennis.
 
             </span>
@@ -157,7 +157,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
           <th>17:20</th>
            <td colspan="4" class="stage-venus">
             <span>
-              <i>Toward Campus Mail Delivery Using BDI</i>. <br/>
+             <img src="../../images/logos/f_icon.png" style="width:20px"/>  <i>Toward Campus Mail Delivery Using BDI</i>. <br/>
               Chidiebere Onyedinma, Patrick Gavigan and Babak Esfandiari.
             </span>
            </td>
