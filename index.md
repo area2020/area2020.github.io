@@ -39,8 +39,9 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 
 ## Provisional programme : Friday 4th of September
 
-The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
-
+The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.   
+<img src="../../images/logos/s_icon.png" style="width:20px"/> = short paper   
+<img src="../../images/logos/f_icon.png" style="width:20px"/> = full paper
 <table>
     <body>
         <tr>
@@ -59,7 +60,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 1: Verification [Chair: Claudio Menghi]
             <span>
-              <img src="../../images/logos/s_icon.png" style="width:16px"/> <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
+              <img src="../../images/logos/s_icon.png" style="width:20px"/> <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
             </span>
             </td>
@@ -78,7 +79,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-mars">
             Slot 2: Reliability [Chair: Rafael C. Cardoso]
             <span>
-              <img src="../../images/logos/f_icon.png" style="width:16px"/> <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>. <br/>
+              <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>. <br/>
               Victoria Edwards, Loy McGuire and Signe Redfield.
             </span>
             </td>
