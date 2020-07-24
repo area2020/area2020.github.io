@@ -59,7 +59,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <td colspan="4" class="stage-venus">
             Slot 1: Verification [Chair: Claudio Menghi]
             <span>
-              <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
+              <img src="../../images/logos/s_icon.png"/> <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
             </span>
             </td>
