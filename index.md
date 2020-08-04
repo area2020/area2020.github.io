@@ -343,10 +343,10 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 
 <ul>
 <!--<li><b>Abstract Submission (optional): 3rd May 2020</b></li>-->
-<li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
+<li><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></li>
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li><s>Camera Ready: 10th July 2020</s></li>
-<li>Workshop: 4th September 2020</li>
+<li><b>Workshop: 4th September 2020</b></li>
 </ul>
 
 ## Invited Speakers
