@@ -61,7 +61,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>13:40</th>
             <td colspan="4" class="stage-venus">
-                Slot 1: Verification <span style="font-size:14px">[Chair: Claudio Menghi]</span>
+                Slot 1: Verification <i style="font-size:12px">[Chair: Claudio Menghi]</i>
             <span>
               <img src="../../images/logos/s_icon.png" style="width:20px"/> <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
@@ -80,7 +80,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>14:20</th>
             <td colspan="4" class="stage-mars">
-                Slot 2: Reliability <span style="font-size:14px">[Chair: Rafael C. Cardoso]</span>
+                Slot 2: Reliability <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>. <br/>
               Victoria Edwards, Loy McGuire and Signe Redfield.
@@ -99,7 +99,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>15:00</th>
             <td colspan="4" class="stage-venus">
-                Slot 3: Engineering <span style="font-size:14px">[Chair: Daniela Briola]</span>
+                Slot 3: Engineering <i style="font-size:12px">[Chair: Daniela Briola]</i>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
@@ -129,7 +129,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>16:20</th>
             <td colspan="4" class="stage-mars">
-                Slot 4: Learning <span style="font-size:14px">[Chair: Angelo Ferrando]</span>
+                Slot 4: Learning <i style="font-size:12px">[Chair: Angelo Ferrando]</i>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/>  <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>. <br/>
               Simón C. Smith and Subramanian Ramamoorthy.
@@ -148,7 +148,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>17:00</th>
             <td colspan="4" class="stage-venus">
-                Slot 5: BDI Agents <span style="font-size:14px">[Chair: Tobias Ahlbrecht]</span>
+                Slot 5: BDI Agents <i style="font-size:12px">[Chair: Tobias Ahlbrecht]</i>
             <span>
              <img src="../../images/logos/s_icon.png" style="width:20px"/>  <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
               Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise A. Dennis.
