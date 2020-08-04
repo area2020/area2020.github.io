@@ -54,8 +54,9 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
               <span> 
                   <b>Title:</b> <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
                   Based on Joint Work with Ronen Nir, Alexander Tuisov, Alexander Shleyfman, and Moshe Tennenholz. <br/>
-                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
-We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.
+                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. <span id="dots">...</span> <span id="more"> Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
+We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.</span>
+              <button onclick="myFunction()" id="myBtn">Read more</button>
               </span>
             </td>
         </tr>
@@ -401,3 +402,20 @@ For more information contact us at area2020.workshop@gmail.com
 
 </div>
 </div>
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
