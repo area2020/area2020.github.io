@@ -30,12 +30,12 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 </div>
 </div>
 
-
+# First Workshop on Agents and Robots for reliable Engineered Autonomy
 
 <div class="columns large-7" >
 <div markdown="1">
 
-# First Workshop on Agents and Robots for reliable Engineered Autonomy
+
 
 ## AREA 2020 programme: Friday 4th of September
 
