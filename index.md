@@ -37,7 +37,7 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 
 # First Workshop on Agents and Robots for reliable Engineered Autonomy
 
-## Provisional programme : Friday 4th of September
+## AREA 2020 programme: Friday 4th of September
 
 The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.   
 <img src="../../images/logos/s_icon.png" style="width:20px"/> = short paper   
@@ -181,6 +181,8 @@ We present approaches for verifying whether a given social law is robust under d
 
 <br><br>
 
+## Aim
+
 <p align="justify">
 Autonomous agents is a well-established area that has been researched for decades, both from a design and implementation viewpoint.  Nonetheless, the application of agents in real world scenarios is largely adopted when logical distribution is needed, while still limited when physical distribution is necessary.
 In parallel, robots are no longer used only in industrial applications, but are instead being applied to an increasing number of domains, ranging from robotic assistants to search and rescue. Robots in these applications often benefit from (or require) some level (semi or full) of autonomy. Thus, multi-agent solutions can be exploited in robotic scenarios, considering their strong similarity both in terms of logical distribution and interaction among autonomous entities.<br>
@@ -252,6 +254,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">ht
 We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
 </p>
 
+<!---
 ## Accepted Papers
 
 <div style="text-align:justify;">
@@ -288,6 +291,7 @@ We will evaluate applying for a special issue on a Journal (to be selected) wher
   </li>
 </ul>
 </div>
+--->
 
 <div style="margin-top:10px;"></div>
 
