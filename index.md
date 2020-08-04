@@ -345,7 +345,7 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 <!--<li><b>Abstract Submission (optional): 3rd May 2020</b></li>-->
 <li><b><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></b></li>
 <li><s>Paper Notification: 10th June 2020</s></li>
-<li>Camera Ready: 10th July 2020</li>
+<li><s>Camera Ready: 10th July 2020</s></li>
 <li>Workshop: 4th September 2020</li>
 </ul>
 
@@ -355,6 +355,10 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 <li><a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>, Senior Research Fellow at ONERA (French Aerospace Lab) (France)</li>
   <li><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>, Senior Lecturer at Technion – Israel Institute of Technology (Israel)</li>
 </ul>
+
+## Proceedings
+
+The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?AREA2020" target="_blank">here</a>.
 
 ## Organisers
 
