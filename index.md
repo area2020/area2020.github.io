@@ -50,10 +50,11 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
         </tr>
         <tr>
             <th>13:10</th>
-            <td colspan="4" class="stage-earth">Invited talk: <a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>
+            <td colspan="4" class="stage-earth">Invited talk: <a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a> <i style="font-size:12px">[Chair: Rafael C. Cardoso]</i>
               <span> 
-                  Title: <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
-                  Abstract: Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
+                  <b>Title:</b> <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
+                  Based on Joint Work with Ronen Nir, Alexander Tuisov, Alexander Shleyfman, and Moshe Tennenholz. <br/>
+                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
 We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.
               </span>
             </td>
@@ -121,8 +122,10 @@ We present approaches for verifying whether a given social law is robust under d
         </tr>
         <tr>
             <th>15:50</th>
-            <td colspan="4" class="stage-earth">Invited talk: <a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a>
-              <span> Abstract: TBA
+            <td colspan="4" class="stage-earth">Invited talk: <a href="https://sites.google.com/view/charles-lesire" target="_blank">Charles Lesire</a> <i style="font-size:12px">[Chair: Angelo Ferrando]</i>
+              <span> 
+                  <b>Title:</b> <i>TBA</i> <br/>
+                  <b>Abstract:</b> TBA
               </span>
             </td>
         </tr>
