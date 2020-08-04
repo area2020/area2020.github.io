@@ -56,7 +56,7 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
                   Based on Joint Work with Ronen Nir, Alexander Tuisov, Alexander Shleyfman, and Moshe Tennenholz. <br/>
                   <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. <span id="dots">...</span> <span id="more"> Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
 We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.</span>
-              <button onclick="myFunction()" id="myBtn">Read more</button>
+              <button style="color:blue;" onclick="myFunction()" id="myBtn">Read more</button>
               </span>
             </td>
         </tr>
