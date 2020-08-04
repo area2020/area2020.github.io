@@ -52,9 +52,8 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
             <th>13:10</th>
             <td colspan="4" class="stage-earth">Invited talk: <a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>
               <span> 
-                  <b>Title:</b> <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
-                  Based on Joint Work with Ronen Nir, Alexander Tuisov, Alexander Shleyfman, and Moshe Tennenholz.<br/>
-                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
+                  Title: <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
+                  Abstract: Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
 We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.
               </span>
             </td>
@@ -62,7 +61,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>13:40</th>
             <td colspan="4" class="stage-venus">
-            Slot 1: Verification [Chair: Claudio Menghi]
+                Slot 1: Verification <span style="font-size:10px">[Chair: Claudio Menghi]</span>
             <span>
               <img src="../../images/logos/s_icon.png" style="width:20px"/> <i>Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation</i>. <br/>
               Mehrnoosh Askarpour, Matteo Rossi and Omer Tiryakiler.
@@ -81,7 +80,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>14:20</th>
             <td colspan="4" class="stage-mars">
-            Slot 2: Reliability [Chair: Rafael C. Cardoso]
+                Slot 2: Reliability <span style="font-size:10px">[Chair: Rafael C. Cardoso]</span>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Establishing Reliable Robot Behavior using Capability Analysis Tables</i>. <br/>
               Victoria Edwards, Loy McGuire and Signe Redfield.
@@ -100,7 +99,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>15:00</th>
             <td colspan="4" class="stage-venus">
-            Slot 3: Engineering [Chair: Daniela Briola]
+                Slot 3: Engineering <span style="font-size:10px">[Chair: Daniela Briola]</span>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/> <i>Exploratory Experiments on Programming Autonomous Robots in Jadescript</i>. <br/>
               Eleonora Iotti, Giuseppe Petrosino, Stefania Monica and Federico Bergenti.
@@ -130,7 +129,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>16:20</th>
             <td colspan="4" class="stage-mars">
-            Slot 4: Learning [Chair: Angelo Ferrando]
+                Slot 4: Learning <span style="font-size:10px">[Chair: Angelo Ferrando]</span>
             <span>
               <img src="../../images/logos/f_icon.png" style="width:20px"/>  <i>Semi-supervised Learning From Demonstration through Program Synthesis: An Inspection Robot Case Study</i>. <br/>
               Simón C. Smith and Subramanian Ramamoorthy.
@@ -149,7 +148,7 @@ We present approaches for verifying whether a given social law is robust under d
         <tr>
             <th>17:00</th>
             <td colspan="4" class="stage-venus">
-            Slot 5: BDI Agents [Chair: Tobias Ahlbrecht]
+                Slot 5: BDI Agents <span style="font-size:10px">[Chair: Tobias Ahlbrecht]</span>
             <span>
              <img src="../../images/logos/s_icon.png" style="width:20px"/>  <i>Adaptable and Verifiable BDI Reasoning</i>. <br/>
               Peter Stringer, Rafael C. Cardoso, Xiaowei Huang and Louise A. Dennis.
