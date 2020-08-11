@@ -363,9 +363,9 @@ The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au
 ## Organisers
 
 <ul>
-  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Liverpool (UK)</li>
-  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Liverpool (UK)</li>
-  <li>Tobias Ahlbrecht, Clausthal University of Technology (Germany)</li>
+  <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, The University of Manchester (UK)</li>
+  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, The University of Manchester (UK)</li>
+    <li><a href="https://t-ah.de/" target="_blank">Tobias Ahlbrecht</a>, Clausthal University of Technology (Germany)</li>
   <li><a href="https://claudiomenghi.github.io/" target="_blank">Claudio Menghi</a>, University of Luxembourg (Luxembourg)</li>
   <li><a href="mailto:daniela.briola@unimib.it">Daniela Briola</a>, University of Milano-Bicocca (Italy)</li>
 </ul>
@@ -379,7 +379,7 @@ The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au
 <li>Olivier Boissier, Mines Saint-Étienne (France)</li>
 <li>Rafael H. Bordini, PUCRS (Brazil)</li>
 <li>Jürgen Dix, Clausthal University of Technology (Germany)</li>
-<li>Michael Fisher, University of Liverpool (UK)</li>
+<li>Michael Fisher, The University of Manchester (UK)</li>
 <li>Meng Guo, Bosch Center for Artificial Intelligence (Germany)</li>
 <li>Nico Hochgeschwender, Hochschule Bonn-Rhein-Sieg (Germany)</li>
 <li>Jomi F. Hübner, UFSC (Brazil)</li>
