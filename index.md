@@ -54,11 +54,11 @@ The time is in <a href="https://time.is/it/CEST">CEST timezone</a>.
               <span> 
                   <b>Title:</b> <i>Automated Verification and Synthesis of Robust Social Laws</i> <br/>
                   Based on Joint Work with Ronen Nir, Alexander Tuisov, Alexander Shleyfman, and Moshe Tennenholz. <br/>
-                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are <span id="dots">...</span> <span id="more">a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
+                  <b>Abstract:</b> Agents operating in a multi-agent environment must consider not just their own actions, but also those of the other agents in the system. Artificial social systems are <span id="dots1">...</span> <span id="more1">a well known means for coordinating a set of agents, without requiring centralized planning or online negotiation between agents. Artificial social systems enact a social law which restricts the agents from performing some actions under some circumstances. A good social law prevents the agents from interfering with each other, but does not prevent them from achieving their goals. However, designing good social laws, or even checking whether a proposed social law is good, are hard questions. 
 We present approaches for verifying whether a given social law is robust under different planning formalisms, as well as techniques for automatically synthesizing a robust social law.<br/>
                   <b>Short Bio:</b> Dr. Erez Karpas is a senior lecturer (assistant professor) at the Faculty of Industrial Engineering and Management, Technion – Israel Institute of Technology. His main research interests are artificial intelligence and robotics. Prior to that he was a postdoctoral associate at the Model-based Embedded and Robotics Systems Group at MIT, under the supervision of Prof. Brian Williams. and before that, a research fellow and the research coordinator of the Technion-Microsoft Electronic-Commerce Research Center, under Prof. Moshe Tennenholtz. He completed his Ph.D. under the supervision of Prof. Carmel Domshlak and Prof. Shaul Markovitch at the Faculty of Industrial Engineering and Management at the Technion – Israel Institute of Technology.  
                  </span>
-              <button style="color:blue;" onclick="myFunction()" id="myBtn">Read more</button>
+              <button style="color:blue;" onclick="myFunction1()" id="myBtn1">Read more</button>
               </span>
             </td>
         </tr>
@@ -416,10 +416,10 @@ For more information contact us at area2020.workshop@gmail.com
 </div>
 </div>
 <script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+function myFunction1() {
+  var dots = document.getElementById("dots1");
+  var moreText = document.getElementById("more1");
+  var btnText = document.getElementById("myBtn1");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
