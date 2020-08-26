@@ -35,7 +35,9 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 <div class="columns large-7" >
 <div markdown="1">
 
+## Proceedings
 
+The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?AREA2020" target="_blank">here</a>.
 
 ## AREA 2020 programme: Friday 4th of September
 
@@ -250,11 +252,9 @@ Submissions are accepted in PDF format only. Each submission will receive at lea
 <br><br>
 <b>At least one of the authors of an accepted paper should attend the workshop to present their work. </b>
 <br><br>
-The proceedings of the workshop will be published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
+The proceedings of the workshop have been published with EPTCS (<a href="http://www.eptcs.org/">http://www.eptcs.org/</a>). Formatting guidelines should follow EPTCS style: <a href="http://style.eptcs.org/">http://style.eptcs.org/</a>
 <br><br>
-Submission link: <a href="https://easychair.org/my/conference?conf=area2020#">https://easychair.org/my/conference?conf=area2020#</a>
-<br><br>
-We will evaluate applying for a special issue on a Journal (to be selected) where revised selected and extended papers will be published.
+We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
 </p>
 
 <!---
@@ -341,6 +341,9 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 <a href="https://digital.ecai2020.eu/sign-up/" target="_blank">ECAI 2020 registration</a>   
 <a href="https://www.eventbrite.co.uk/e/area-2020-tickets-113010643878" target="_blank">AREA 2020 registration</a>
 
+## Special Issue
+
+We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
 
 ## Important Dates
 
@@ -359,9 +362,7 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
   <li><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a>, Senior Lecturer at Technion – Israel Institute of Technology (Israel)</li>
 </ul>
 
-## Proceedings
 
-The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?AREA2020" target="_blank">here</a>.
 
 ## Organisers
 
