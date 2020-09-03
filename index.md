@@ -353,6 +353,7 @@ We are organising a special issue based on the topics of the Workshop for the Jo
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li><s>Camera Ready: 10th July 2020</s></li>
 <li><b>Workshop: 4th September 2020</b></li>
+<li>Special Issue Submission Deadline: 30th November 2020</li>
 </ul>
 
 ## Invited Speakers
