@@ -34,6 +34,10 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 
 <div class="columns large-7" >
 <div markdown="1">
+    
+## Special Issue
+
+We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
 
 ## Proceedings
 
@@ -341,10 +345,6 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 <a href="https://digital.ecai2020.eu/sign-up/" target="_blank">ECAI 2020 registration</a>   
 <a href="https://www.eventbrite.co.uk/e/area-2020-tickets-113010643878" target="_blank">AREA 2020 registration</a>
 
-## Special Issue
-
-We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
-
 ## Important Dates
 
 <ul>
@@ -352,8 +352,8 @@ We are organising a special issue based on the topics of the Workshop for the Jo
 <li><s>Paper Submission Deadline: 10th May 2020 (AoE, UTC-12)</s></li>
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li><s>Camera Ready: 10th July 2020</s></li>
-<li><b>Workshop: 4th September 2020</b></li>
-<li>Special Issue Submission Deadline: 30th November 2020</li>
+<li><s>Workshop: 4th September 2020</s></li>
+<li><b>Special Issue Submission Deadline: 30th November 2020</b></li>
 </ul>
 
 ## Invited Speakers
