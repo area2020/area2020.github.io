@@ -39,6 +39,14 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 
 We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
 
+## Recordings
+
+The recordings of the opening remarks and the two invited talks can be found in our Youtube playlist by clicking <a href="https://www.youtube.com/watch?v=khq1PBzrs4k&list=PLMpToO1A8uXojjllQqDgJO9fZvRmtxBFc&ab_channel=AREAWorkshop" target="_blank">here</a>.
+
+<br><br>
+
+The recordings with the talks of accepted papers can be found in Underline by clicking <a href="https://underline.io/events/24/sessions?eventSessionId=311&ecai=Ti3qQ0AsFTs3m76IKMXEanhrZDkA35MelRLnec%2BK%2FYwSPdX76uQSsFV2juYgzqdLNP7SS%2BCgtOSYT5x0SDApy9aQPeA0H%2BSJ4ECdQRP%2BATAVjOu%2BlXzS9kCdF8hfaVWJ" target="_blank">here</a>.
+
 ## Proceedings
 
 The AREA 2020 proceedings is available <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?AREA2020" target="_blank">here</a>.
@@ -338,12 +346,13 @@ We are organising a special issue based on the topics of the Workshop for the Jo
 <div class="columns large-5" >
 <div markdown="1">
 
-
+<!---
 ## Registration
 
 AREA 2020 will be held virtually. To register to AREA please register to ECAI 2020 **and** AREA 2020 in eventbrite:   
 <a href="https://digital.ecai2020.eu/sign-up/" target="_blank">ECAI 2020 registration</a>   
 <a href="https://www.eventbrite.co.uk/e/area-2020-tickets-113010643878" target="_blank">AREA 2020 registration</a>
+--->
 
 ## Important Dates
 
