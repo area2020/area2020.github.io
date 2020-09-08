@@ -43,7 +43,6 @@ We are organising a special issue based on the topics of the Workshop for the Jo
 
 The recordings of the opening remarks and the two invited talks can be found in our Youtube playlist by clicking <a href="https://www.youtube.com/watch?v=khq1PBzrs4k&list=PLMpToO1A8uXojjllQqDgJO9fZvRmtxBFc&ab_channel=AREAWorkshop" target="_blank">here</a>.
 
-<br><br>
 
 The recordings with the talks of accepted papers can be found in Underline by clicking <a href="https://underline.io/events/24/sessions?eventSessionId=311&ecai=Ti3qQ0AsFTs3m76IKMXEanhrZDkA35MelRLnec%2BK%2FYwSPdX76uQSsFV2juYgzqdLNP7SS%2BCgtOSYT5x0SDApy9aQPeA0H%2BSJ4ECdQRP%2BATAVjOu%2BlXzS9kCdF8hfaVWJ" target="_blank">here</a>.
 
