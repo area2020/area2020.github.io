@@ -361,7 +361,7 @@ AREA 2020 will be held virtually. To register to AREA please register to ECAI 20
 <li><s>Paper Notification: 10th June 2020</s></li>
 <li><s>Camera Ready: 10th July 2020</s></li>
 <li><s>Workshop: 4th September 2020</s></li>
-<li><b>Special Issue Submission Deadline: 30th November 2020</b></li>
+<li><b>Special Issue Submission Deadline: 14th March 2021</b></li>
 </ul>
 
 ## Invited Speakers
