@@ -36,8 +36,7 @@ image: https://area2020.github.io/images/logos/area_logo_1.png
 <div markdown="1">
     
 ## Special Issue
-
-We are organising a special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks. More information can be found <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
+A special issue based on the topics of the Workshop for the Journal of Sensor and Actuator Networks has been published <a href="https://www.mdpi.com/journal/jsan/special_issues/REA" target="_blank">here</a>.
 
 ## Recordings
 
